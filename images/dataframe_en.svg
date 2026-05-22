@@ -346,7 +346,7 @@
        rx="2.5"
        ry="2.5" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:#2d33ff;stroke-width:0.5;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#2d33ff;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect-name_col1"
        width="20"
        height="12"
@@ -355,7 +355,7 @@
        rx="2.5"
        ry="2.5" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:#2d33ff;stroke-width:0.5;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#2d33ff;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect-name_col2"
        width="20"
        height="12"
@@ -364,7 +364,7 @@
        rx="2.5"
        ry="2.5" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:#2d33ff;stroke-width:0.5;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#2d33ff;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect-name_col3"
        width="20"
        height="12"
@@ -373,7 +373,7 @@
        rx="2.5"
        ry="2.5" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:#2d33ff;stroke-width:0.5;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#2d33ff;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect-name_col4"
        width="20"
        height="12"
@@ -420,7 +420,7 @@
        y="24"
        id="text-ind1"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5"
          x="22"
          y="24"
          id="tspan-ind1">ind1</tspan></text>
@@ -431,7 +431,7 @@
        y="24"
        id="text-ind2"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5"
          x="50"
          y="24"
          id="tspan-ind2">ind2</tspan></text>
@@ -442,7 +442,7 @@
        y="24"
        id="text-col1"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
          x="86"
          y="24"
          id="tspan-col1">col1</tspan></text>
@@ -453,7 +453,7 @@
        y="24"
        id="text-col2"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
          x="114"
          y="24"
          id="tspan-col2">col2</tspan></text>
@@ -464,7 +464,7 @@
        y="24"
        id="text-col3"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
          x="142"
          y="24"
          id="tspan-col3">col3</tspan></text>
@@ -475,7 +475,7 @@
        y="24"
        id="text-col4"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
          x="170"
          y="24"
          id="tspan-col4">col4</tspan></text>
@@ -495,7 +495,7 @@
        y="43"
        id="text-row0"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5"
          x="22"
          y="43"
          id="tspan-row0">0</tspan></text>
@@ -506,7 +506,7 @@
        y="53"
        id="text-row1"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5"
          x="22"
          y="53"
          id="tspan-row1">1</tspan></text>
@@ -517,7 +517,7 @@
        y="63"
        id="text-row2"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5"
          x="22"
          y="63"
          id="tspan-row2">2</tspan></text>
@@ -528,7 +528,7 @@
        y="73"
        id="text-row3"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5"
          x="22"
          y="73"
          id="tspan-row3">3</tspan></text>
@@ -539,7 +539,7 @@
        y="83"
        id="text-row-dots"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5"
          x="22"
          y="83"
          id="tspan-row-dots">...</tspan></text>
@@ -550,7 +550,7 @@
        y="93"
        id="text-row-N-1"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5"
          x="22"
          y="93"
          id="tspan-row-N-1">N-1</tspan></text>
