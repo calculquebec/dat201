@@ -574,15 +574,15 @@
          id="tspan-col1-4">'yz'</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#008800;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#cc6600;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
        x="46"
        y="97"
        id="text-col1-5"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#008800;fill-opacity:1;stroke:none;stroke-width:0.5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#cc6600;fill-opacity:1;stroke:none;stroke-width:0.5"
          x="46"
          y="97"
-         id="tspan-col1-5">'yz'</tspan></text>
+         id="tspan-col1-5">'hg'</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
@@ -770,17 +770,6 @@
          x="170"
          y="87"
          id="tspan-result-4">4.3</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#008800;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
-       x="170"
-       y="97"
-       id="text-result-5"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#008800;fill-opacity:1;stroke:none;stroke-width:0.5"
-         x="170"
-         y="97"
-         id="tspan-result-5">4.3</tspan></text>
     <path
        style="fill:#ff2d33;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-end:url(#DartArrow)"
        d="m 80,40 c 4,-2.666667 8,-5.333333 12,-8"
