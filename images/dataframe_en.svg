@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="188mm"
+   height="104mm"
+   viewBox="0 0 188 104"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="dataframe_fr.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true">
+    <sodipodi:guide
+       position="8,104"
+       orientation="-1,0"
+       id="guideIndexLines"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="12,104"
+       orientation="-1,0"
+       id="guideV12"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="22,104"
+       orientation="-1,0"
+       id="guideV22"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="32,104"
+       orientation="-1,0"
+       id="guideV32"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="36,104"
+       orientation="-1,0"
+       id="guideV36"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="40,104"
+       orientation="-1,0"
+       id="guideV40"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="50,104"
+       orientation="-1,0"
+       id="guideV50"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="60,104"
+       orientation="-1,0"
+       id="guideV60"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="64,104"
+       orientation="-1,0"
+       id="guideV64"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="72,104"
+       orientation="-1,0"
+       id="guideV72"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="76,104"
+       orientation="-1,0"
+       id="guideV76"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="86,104"
+       orientation="-1,0"
+       id="guideV86"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="96,104"
+       orientation="-1,0"
+       id="guideV96"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="104,104"
+       orientation="-1,0"
+       id="guideV104"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="114,104"
+       orientation="-1,0"
+       id="guideV114"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="124,104"
+       orientation="-1,0"
+       id="guideV124"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="128,104"
+       orientation="-1,0"
+       id="guideV128"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="132,104"
+       orientation="-1,0"
+       id="guideV132"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="142,104"
+       orientation="-1,0"
+       id="guideV142"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="152,104"
+       orientation="-1,0"
+       id="guideV152"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="160,104"
+       orientation="-1,0"
+       id="guideV160"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="170,104"
+       orientation="-1,0"
+       id="guideV170"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="180,104"
+       orientation="-1,0"
+       id="guideV180"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="184,104"
+       orientation="-1,0"
+       id="guideV184"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,96"
+       orientation="0,-1"
+       id="guideIndexColumns"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,92"
+       orientation="0,-1"
+       id="guideH12"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,88"
+       orientation="0,-1"
+       id="guideH16"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,80"
+       orientation="0,-1"
+       id="guideH24"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,76"
+       orientation="0,-1"
+       id="guideH28"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,72"
+       orientation="0,-1"
+       id="guideH32"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,68"
+       orientation="0,-1"
+       id="guideH36"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,61"
+       orientation="0,-1"
+       id="guideH43"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,58"
+       orientation="0,-1"
+       id="guideH46"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,51"
+       orientation="0,-1"
+       id="guideH53"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,48"
+       orientation="0,-1"
+       id="guideH56"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,41"
+       orientation="0,-1"
+       id="guideH63"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,38"
+       orientation="0,-1"
+       id="guideH66"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,31"
+       orientation="0,-1"
+       id="guideH73"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,28"
+       orientation="0,-1"
+       id="guideH76"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,21"
+       orientation="0,-1"
+       id="guideH83"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,18"
+       orientation="0,-1"
+       id="guideH86"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,11"
+       orientation="0,-1"
+       id="guideH93"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,8"
+       orientation="0,-1"
+       id="guideH96"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,4"
+       orientation="0,-1"
+       id="guideH100"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#555555;stroke-width:0.5;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 12,46 168,0"
+       id="sep1" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#555555;stroke-width:0.5;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 12,56 168,0"
+       id="sep2" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#555555;stroke-width:0.5;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 12,66 168,0"
+       id="sep3" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#555555;stroke-width:0.5;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 12,76 168,0"
+       id="sep4" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#555555;stroke-width:0.5;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 12,86 168,0"
+       id="sep5" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ff2d33;stroke-width:0.5;stroke-opacity:1"
+       id="rect-index1"
+       width="20"
+       height="60"
+       x="12"
+       y="36"
+       rx="2.5"
+       ry="2.5" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ff2d33;stroke-width:0.5;stroke-opacity:1"
+       id="rect-index2"
+       width="20"
+       height="60"
+       x="40"
+       y="36"
+       rx="2.5"
+       ry="2.5" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#2d33ff;stroke-width:0.5;stroke-opacity:1"
+       id="rect-data_col1"
+       width="20"
+       height="60"
+       x="76"
+       y="36"
+       rx="2.5"
+       ry="2.5" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#2d33ff;stroke-width:0.5;stroke-opacity:1"
+       id="rect-data_col2"
+       width="20"
+       height="60"
+       x="104"
+       y="36"
+       rx="2.5"
+       ry="2.5" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#2d33ff;stroke-width:0.5;stroke-opacity:1"
+       id="rect-data_col3"
+       width="20"
+       height="60"
+       x="132"
+       y="36"
+       rx="2.5"
+       ry="2.5" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#2d33ff;stroke-width:0.5;stroke-opacity:1"
+       id="rect-data_col4"
+       width="20"
+       height="60"
+       x="160"
+       y="36"
+       rx="2.5"
+       ry="2.5" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ff2d33;stroke-width:0.5;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect-name_ind1"
+       width="20"
+       height="12"
+       x="12"
+       y="16"
+       rx="2.5"
+       ry="2.5" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ff2d33;stroke-width:0.5;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect-name_ind2"
+       width="20"
+       height="12"
+       x="40"
+       y="16"
+       rx="2.5"
+       ry="2.5" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#2d33ff;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect-name_col1"
+       width="20"
+       height="12"
+       x="76"
+       y="16"
+       rx="2.5"
+       ry="2.5" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#2d33ff;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect-name_col2"
+       width="20"
+       height="12"
+       x="104"
+       y="16"
+       rx="2.5"
+       ry="2.5" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#2d33ff;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect-name_col3"
+       width="20"
+       height="12"
+       x="132"
+       y="16"
+       rx="2.5"
+       ry="2.5" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#2d33ff;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect-name_col4"
+       width="20"
+       height="12"
+       x="160"
+       y="16"
+       rx="2.5"
+       ry="2.5" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#2daa33;stroke-width:0.5;stroke-opacity:1"
+       id="rect-col_index"
+       width="112"
+       height="20"
+       x="72"
+       y="12"
+       rx="2.5"
+       ry="2.5" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="-66"
+       y="8"
+       id="text-index_lines"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan-index_lines"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="-66"
+         y="8">Row index</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2daa33;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="128"
+       y="8"
+       id="text-index_columns"><tspan
+         sodipodi:role="line"
+         id="tspan-index_columns"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#2daa33;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="128"
+         y="8">Column index</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="22"
+       y="24"
+       id="text-ind1"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="22"
+         y="24"
+         id="tspan-ind1">ind1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="50"
+       y="24"
+       id="text-ind2"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="50"
+         y="24"
+         id="tspan-ind2">ind2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="86"
+       y="24"
+       id="text-col1"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="86"
+         y="24"
+         id="tspan-col1">col1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="114"
+       y="24"
+       id="text-col2"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="114"
+         y="24"
+         id="tspan-col2">col2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="142"
+       y="24"
+       id="text-col3"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="142"
+         y="24"
+         id="tspan-col3">col3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="170"
+       y="24"
+       id="text-col4"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="170"
+         y="24"
+         id="tspan-col4">col4</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:0.666666;stroke:#aaaaaa;stroke-width:0.5;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect-transparent"
+       width="28"
+       height="88"
+       x="36"
+       y="12"
+       rx="2.5"
+       ry="2.5" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="22"
+       y="43"
+       id="text-row0"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="22"
+         y="43"
+         id="tspan-row0">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="22"
+       y="53"
+       id="text-row1"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="22"
+         y="53"
+         id="tspan-row1">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="22"
+       y="63"
+       id="text-row2"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="22"
+         y="63"
+         id="tspan-row2">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="22"
+       y="73"
+       id="text-row3"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="22"
+         y="73"
+         id="tspan-row3">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="22"
+       y="83"
+       id="text-row-dots"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="22"
+         y="83"
+         id="tspan-row-dots">...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="22"
+       y="93"
+       id="text-row-N-1"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ff2d33;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="22"
+         y="93"
+         id="tspan-row-N-1">N-1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="86"
+       y="43"
+       id="text-col1-5_1"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="86"
+         y="43"
+         id="tspan-col1-5_1">5.1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="86"
+       y="53"
+       id="text-col1-7_3"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="86"
+         y="53"
+         id="tspan-col1-7_3">7.3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="86"
+       y="63"
+       id="text-col1-2_4"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="86"
+         y="63"
+         id="tspan-col1-2_4">2.4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="86"
+       y="83"
+       id="text-col1-6_2"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="86"
+         y="83"
+         id="tspan-col1-6_2">6.2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="114"
+       y="43"
+       id="text-col2-3"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="114"
+         y="43"
+         id="tspan-col2-3">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="114"
+       y="53"
+       id="text-col2-12"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="114"
+         y="53"
+         id="tspan-col2-12">12</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="114"
+       y="63"
+       id="text-col2-8"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="114"
+         y="63"
+         id="tspan-col2-8">8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="114"
+       y="73"
+       id="text-col2-7"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="114"
+         y="73"
+         id="tspan-col2-7">7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="114"
+       y="83"
+       id="text-col2-11"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="114"
+         y="83"
+         id="tspan-col2-11">11</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="114"
+       y="93"
+       id="text-col2-4"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="114"
+         y="93"
+         id="tspan-col2-4">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="142"
+       y="43"
+       id="text-col3-ab"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="142"
+         y="43"
+         id="tspan-col3-ab">'ab'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="142"
+       y="53"
+       id="text-col3-ty"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="142"
+         y="53"
+         id="tspan-col3-ty">'ty'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="142"
+       y="73"
+       id="text-col3-sd"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="142"
+         y="73"
+         id="tspan-col3-sd">'sd'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="142"
+       y="93"
+       id="text-col3-mn"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="142"
+         y="93"
+         id="tspan-col3-mn">'mn'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="170"
+       y="40"
+       id="text-col4-date1"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="170"
+         y="40"
+         id="tspan-col4-date1-yyyy">2026-</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="170"
+         y="44"
+         id="tspan-col4-date1-mm-dd">03-14</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="170"
+       y="60"
+       id="text-col4-date3"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="170"
+         y="60"
+         id="tspan-col4-date3-yyyy">2025-</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="170"
+         y="64"
+         id="tspan-col4-date3-mm-dd">12-06</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="170"
+       y="70"
+       id="text-col4-date4"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="170"
+         y="70"
+         id="tspan-col4-date4-yyyy">2026-</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="170"
+         y="74"
+         id="tspan-col4-date4-mm-dd">01-23</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="170"
+       y="80"
+       id="text-col4-date5"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="170"
+         y="80"
+         id="tspan-col4-date5-yyyy">2025-</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="170"
+         y="84"
+         id="tspan-col4-date5-mm-dd">11-29</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       x="170"
+       y="90"
+       id="text-col4-date6"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="170"
+         y="90"
+         id="tspan-col4-date6-yyyy">2026-</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#2d33ff;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="170"
+         y="94"
+         id="tspan-col4-date6-mm-dd">02-07</tspan></text>
+  </g>
+</svg>
