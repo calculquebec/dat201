@@ -1,0 +1,30 @@
+type_emp_id,Emplacement
+0,Banquette
+1,Banquette aménagée
+2,Banquette drainante
+3,Banquette gazonnée
+4,Banquette asphaltée
+5,En bac
+6,Falaise
+7,Fond de trottoir
+8,Inventaire privé
+9,Parc
+10,Parterre
+11,Parterre gazonné
+12,Parterre indéfini
+13,Parterre aménagé
+14,Parterre asphalté
+15,Parterre avec bordure
+16,Parterre avec copeaux
+17,Parterre avec pavé uni
+18,Parterre bétonné
+19,Parterre de bois
+20,Parterre en gravier
+21,Parterre en sable
+22,Saillie aménagée
+23,Saillie drainante
+24,Trottoir
+25,Terre-plein
+26,Terre-plein aménagé
+27,Terre-plein gazonné
+28,Îlot de verdure
