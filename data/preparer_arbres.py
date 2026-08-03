@@ -5,9 +5,8 @@ import sys
 
 
 def enlever_colonnes(df, colonnes):
-    for col in colonnes:
-        if col in df.columns:
-            df.drop(columns=col, inplace=True)
+    for nom_colonne in colonnes:
+        df.drop(columns=nom_colonne, inplace=True)
 
 
 def preparer_essences(arbres_df):
@@ -24,37 +23,25 @@ def preparer_parcs(arbres_df):
         ['CODE_PARC', 'NOM_PARC']
     ].drop_duplicates().sort_values('CODE_PARC')
 
-    enlever_colonnes(
-        arbres_df, ['NOM_PARC', 'Code_secteur', 'Nom_secteur'])
+    enlever_colonnes(arbres_df, ['NOM_PARC'])
     parcs_df.dropna().to_csv('arbres_parcs.csv', index=False)
 
 
 def nettoyage_rues(arbres_df):
     arbres_parcs_df = arbres_df[arbres_df['INV_TYPE'] == 'H'].copy()
-
-    enlever_colonnes(
-        arbres_parcs_df,
-        [
-            'No_civique', 'Rue', 'Rue_cote', 'Rue_de', 'Rue_a',
-            'Distance_pave', 'Distance_ligne_rue',
-            'District', 'LOCALISATION', 'Localisation_code',
-            'Stationnement_jour', 'Stationnement_heure',
-            'INV_TYPE',
-        ]
-    )
+    enlever_colonnes(arbres_parcs_df, ['INV_TYPE'])
 
     return arbres_parcs_df
 
 
 def nettoyage_coordonnees(arbres_parcs_df):
-    for c in ['Longitude', 'Latitude']:
-        mediane = arbres_parcs_df[c].median()
-        dev_std = arbres_parcs_df[c].std()
-        arbres_parcs_df = arbres_parcs_df[
-            np.abs(arbres_parcs_df[c] - mediane) < 3 * dev_std
-        ]
+    for nom_colonne in ['Longitude', 'Latitude']:
+        mediane = arbres_parcs_df[nom_colonne].median()
+        dev_std = arbres_parcs_df[nom_colonne].std()
 
-    enlever_colonnes(arbres_parcs_df, ['Coord_X', 'Coord_Y'])
+        arbres_parcs_df = arbres_parcs_df[
+            np.abs(arbres_parcs_df[nom_colonne] - mediane) < 3 * dev_std
+        ]
 
     return arbres_parcs_df
 
@@ -76,33 +63,25 @@ def preparer_emplacements(arbres_parcs_df):
 
 
 def preparer_plantations(arbres_parcs_df):
-    arbres_plantation_df = arbres_parcs_df.dropna().drop(
-        columns='Date_Releve').copy()
-
+    arbres_plantation_df = arbres_parcs_df.dropna().copy()
     arbres_plantation_df.to_csv('arbres_inv.csv', index=False)
 
 
 def preparer_arbres():
     arbres_df = pd.read_csv(
         'arbres-publics.csv',
-        dtype={col_name: 'str' for col_name in [
-            'CODE_PARC',
-            'Distance_ligne_rue',
-            'LOCALISATION',
-            'Localisation_code',
-            'NOM_PARC',
-            'Nom_secteur',
-            'No_civique',
-            'Rue',
-            'Rue_a',
-            'Rue_cote',
-            'Rue_de',
-            'Stationnement_jour',
-            'Stationnement_heure',
-        ]}
+        usecols=[
+            'INV_TYPE', 'EMP_NO', 'ARROND', 'Emplacement',
+            'Sigle', 'Essence_latin', 'Essence_ang', 'Essence_fr',
+            'DHP', 'Date_Plantation', 'CODE_PARC', 'NOM_PARC',
+            'Arbre_remarquable', 'Longitude', 'Latitude'
+        ],
+        dtype={
+            'CODE_PARC': 'str',
+            'NOM_PARC': 'str',
+        }
     )
 
-    arbres_df.drop(columns='ARROND_NOM', inplace=True)
     arbres_df.rename(columns={'ARROND': 'arrond_id'}, inplace=True)
 
     preparer_essences(arbres_df)
