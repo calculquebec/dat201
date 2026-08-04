@@ -104,6 +104,9 @@ def preparer_arrond():
     )
 
     arrond_df.index.name = 'arrond_id'
+    arrond_df['Arrondissement'] = \
+        arrond_df['Arrondissement'].str.replace('/', '-')
+
     arrond_df.to_csv('mtl_arrondissements.csv')
 
 
