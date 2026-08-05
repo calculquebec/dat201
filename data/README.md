@@ -13,6 +13,9 @@
   - Localisation des compteurs (2009-2025)
     - Date de téléchargement : 2026-07-08
 - https://donnees.montreal.ca/dataset/mesure-impact-projets-verdissement
+- https://donnees.montreal.ca/dataset/permis-construction
+  - Statistiques sur les permis de construction, transformation et démolition
+    - Date de téléchargement : 2026-08-04
 
 ## Création des fichiers
 
