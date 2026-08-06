@@ -1,5 +1,6 @@
 data/arbres-publics.csv
 data/comptage_velo_2025.csv
 data/etatinventaire_arbrespublics_pararrondissement.csv
+data/mesure-impact-projets-verdissement*.csv
 data/statistiques-permis-de-construction.csv
 .ipynb_checkpoints
