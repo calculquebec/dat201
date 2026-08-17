@@ -103,6 +103,28 @@ def preparer_points_rosee(temp_rh_dp):
     return temp_rh_dp[['temperature', 'RH']].reset_index()
 
 
+def preparer_par_date(temp_rh):
+    temp_rh['date'] = temp_rh['date_heure'].dt.date
+
+    temp_rh_par_date = temp_rh.groupby(
+        ['date', 'id_station']
+    )[['temperature', 'RH']].aggregate(
+        ['min', 'max', 'mean']
+    )
+
+    temp_rh_par_date.columns = [
+        f'{mesure}_{statistique}'
+        for mesure in ['temp', 'rh']
+        for statistique in ['min', 'max', 'mean']
+    ]
+
+    for mesure in ['temp', 'rh']:
+        nom_col = f'{mesure}_mean'
+        temp_rh_par_date[nom_col] = temp_rh_par_date[nom_col].round(3)
+
+    temp_rh_par_date.to_csv('air_par_date.csv')
+
+
 def preparer_air():
     air_df = charger_donnees()
 
@@ -110,6 +132,8 @@ def preparer_air():
 
     temp_rh_dp = nettoyer_mesures(air_df)
     temp_rh = preparer_points_rosee(temp_rh_dp)
+
+    preparer_par_date(temp_rh)
 
 
 def main():
