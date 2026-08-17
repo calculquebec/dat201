@@ -75,10 +75,41 @@ def preparer_stations(air_df):
     enlever_colonnes(air_df, stations_df.columns[1:])
 
 
+def nettoyer_mesures(air_df):
+    temp_rh_dp = air_df.set_index(['id_station', 'date_heure']).dropna().copy()
+
+    mediane = temp_rh_dp['temperature'].median()
+    dev_std = temp_rh_dp['temperature'].std()
+
+    temp_rh_dp = temp_rh_dp[
+        np.abs(temp_rh_dp['temperature'] - mediane) < 3 * dev_std
+    ]
+
+    return temp_rh_dp
+
+
+def preparer_points_rosee(temp_rh_dp):
+    points_rosee = temp_rh_dp.copy()
+
+    points_rosee['temperature'] = \
+        points_rosee['temperature'].round().astype('int')
+    points_rosee['RH'] = \
+        ((points_rosee['RH'] / 5).round() * 5).astype('int')
+
+    points_rosee.groupby(
+        ['temperature', 'RH']
+    ).mean().round(1).to_csv('air_points_rosee.csv')
+
+    return temp_rh_dp[['temperature', 'RH']].reset_index()
+
+
 def preparer_air():
     air_df = charger_donnees()
 
     preparer_stations(air_df)
+
+    temp_rh_dp = nettoyer_mesures(air_df)
+    temp_rh = preparer_points_rosee(temp_rh_dp)
 
 
 def main():
