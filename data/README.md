@@ -24,6 +24,35 @@
 
 ## Création des fichiers
 
+Mesures de température et d'humidité relative de l'air :
+* `air_par_date.csv`
+* `air_points_rosee.csv`
+* `air_stations.csv`
+```Bash
+python preparer_air.py
+```
+
+Inventaire des arbres dans les parcs :
+* `arbres_emplacements.csv`
+* `arbres_essences.csv`
+* `arbres_inv.csv`
+* `arbres_parcs.csv`
+* `mtl_arrondissements.csv`
+```Bash
+python preparer_arbres.py
+```
+
+Permis de construction :
+* `construction_permis.csv`
+* `mtl_arrondissements.csv` (réutilisation)
+```Bash
+python preparer_construction.py
+```
+
+Passages de vélos :
+* `compteurs_velo.csv` (copie des données brutes)
+* `velos_par_date.csv`
+* `velos_par_heure.csv`
 ```Bash
 python preparer_velos.py
 ```
